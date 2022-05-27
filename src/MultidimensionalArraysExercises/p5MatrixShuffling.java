@@ -43,14 +43,18 @@ public class p5MatrixShuffling {
                     commandInput = scanner.nextLine().split("\\s+");
                     continue;
                 }
-                for (int row = 0; row < rows; row++) {
-                    for (int col = 0; col < cols; col++) {
-                        System.out.print(matrix[row][col] + " ");
-                    }
-                    System.out.println();
-                }
+                printMatrix(rows, cols, matrix);
                 commandInput = scanner.nextLine().split("\\s+");
             }
+        }
+    }
+
+    private static void printMatrix(int rows, int cols, String[][] matrix) {
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
+                System.out.print(matrix[row][col] + " ");
+            }
+            System.out.println();
         }
     }
 }
