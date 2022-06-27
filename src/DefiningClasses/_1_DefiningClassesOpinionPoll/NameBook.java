@@ -1,4 +1,4 @@
-package _1_DefiningClassesOpinionPoll;
+package DefiningClasses._1_DefiningClassesOpinionPoll;
 
 
 

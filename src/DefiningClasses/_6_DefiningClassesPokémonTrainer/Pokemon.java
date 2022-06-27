@@ -1,4 +1,4 @@
-package _6_DefiningClassesPokémonTrainer;
+package DefiningClasses._6_DefiningClassesPokémonTrainer;
 
 public class Pokemon {
     //a name, an element, and health

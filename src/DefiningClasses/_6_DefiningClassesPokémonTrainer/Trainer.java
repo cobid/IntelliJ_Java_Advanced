@@ -1,4 +1,4 @@
-package _6_DefiningClassesPokémonTrainer;
+package DefiningClasses._6_DefiningClassesPokémonTrainer;
 
 import java.util.ArrayList;
 import java.util.List;

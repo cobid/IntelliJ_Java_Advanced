@@ -1,4 +1,4 @@
-package _4_DefiningClassesRawData;
+package DefiningClasses._4_DefiningClassesRawData;
 
 public class Cargo {
 private int cargoWeight;

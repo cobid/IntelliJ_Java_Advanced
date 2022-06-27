@@ -1,4 +1,4 @@
-package _3_DefiningClassesSpeedRacing;
+package DefiningClasses._3_DefiningClassesSpeedRacing;
 import java.util.*;
 public class Main {
 

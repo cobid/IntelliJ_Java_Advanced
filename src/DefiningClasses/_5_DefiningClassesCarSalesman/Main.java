@@ -1,4 +1,4 @@
-package _5_DefiningClassesCarSalesman;
+package DefiningClasses._5_DefiningClassesCarSalesman;
 
 import java.util.*;
 

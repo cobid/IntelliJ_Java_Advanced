@@ -1,4 +1,4 @@
-package _5_DefiningClassesCarSalesman;
+package DefiningClasses._5_DefiningClassesCarSalesman;
 
 public class Engine {
     //model, power, displacement, and efficiency

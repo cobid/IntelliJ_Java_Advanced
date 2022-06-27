@@ -1,4 +1,4 @@
-package _4_DefiningClassesRawData;
+package DefiningClasses._4_DefiningClassesRawData;
 
 import java.util.ArrayList;
 

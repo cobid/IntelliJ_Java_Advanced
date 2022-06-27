@@ -1,4 +1,4 @@
-package _2_DefiningClassesCompanyRoster;
+package DefiningClasses._2_DefiningClassesCompanyRoster;
 
 import java.util.ArrayList;
 import java.util.List;
